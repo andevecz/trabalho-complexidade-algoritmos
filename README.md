@@ -12,5 +12,14 @@
 ### Os algoritmos escolhidos para teste foram:
 
 <ul>
-    <li>Multiplicação de matrizes quadradas</li>
+    <li>P
+        <ul>
+            <li>Multiplicação de matrizes quadradas</li>
+        </ul> 
+    </li>
+    <li>NP
+        <ul>
+            <li>Força bruta para quebra de senhas.</li>
+        </ul> 
+    </li>
 </ul>
