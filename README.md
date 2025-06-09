@@ -15,6 +15,7 @@
     <li>P
         <ul>
             <li>Multiplicação de matrizes quadradas</li>
+            <li>Bubble Sort</li>
         </ul> 
     </li>
     <li>NP
