@@ -21,6 +21,7 @@
     <li>NP
         <ul>
             <li>Força bruta para quebra de senhas.</li>
+            <li>Problema da mochila 0/1.</li>
         </ul> 
     </li>
 </ul>
