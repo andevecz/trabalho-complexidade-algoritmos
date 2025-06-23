@@ -14,14 +14,14 @@
 <ul>
     <li>P
         <ul>
-            <li>Multiplicação de matrizes quadradas</li>
-            <li>Bubble Sort</li>
+            <li>Multiplicação de matrizes quadradas, <b>O(n³)</b></li>
+            <li>Verificação de números primos, <b>O(√n)</b></li>
         </ul> 
     </li>
     <li>NP
         <ul>
-            <li>Força bruta para quebra de senhas.</li>
-            <li>Problema da mochila 0/1.</li>
+            <li>Força bruta para quebra de senhas, <b>O(26ⁿ)</b></li>
+            <li>Problema da mochila 0/1, <b>O(2ⁿ)</b></li>
         </ul> 
     </li>
 </ul>
